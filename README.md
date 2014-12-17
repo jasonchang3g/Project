@@ -12,3 +12,8 @@ array[x][y][1] = quarter 2
 array[x][y][2] = quarter 3
 array[x][y][3] = quarter 4
 array[x][y][4] = summary
+
+have gui displays reference arrays
+
+have other set up gui
+have other create a counter button
